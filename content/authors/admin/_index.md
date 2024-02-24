@@ -1,9 +1,9 @@
 ---
 # Display name
-title: পায়েলী দাস
+title: Payali Das
 
 # Name pronunciation (optional)
-name_pronunciation: Payali Das
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Payali
