@@ -140,5 +140,5 @@ social:
 highlight_name: true
 ---
 
-Ms. Payali Das received B.E. degree in E&TC Engg. from TIT Tripura in 2016 and M.Tech. degree in VLSI Design and Embedded Systems from NIT Arunachal Pradesh in 2018. She is a graduating Ph.D. Scholar in Elec. Engg. from IIT Delhi. Her current research interests include the design of energy-efficient IoT systems, sensor design, and 5G massive machine-type communication applications. Along with this, she is among the group of Directors of I2SAGE Technologies Pvt. Ltd. which deals with smart IoT R&D. Her project was selected among the top 10 use cases in the 5G Hackathon, organized by the Dept. of Telecomm., Govt. of India.
+Ms. Payali Das is a graduating Ph.D. Scholar in Electrical Engg. from IIT Delhi. Her current research interests include the design of energy-efficient IoT systems, sensor design, and 5G massive machine-type communication applications. Along with this, she is among the group of Directors of I2SAGE Technologies Pvt. Ltd. which deals with smart IoT R&D. Her project was selected among the top 10 use cases in the 5G Hackathon, organized by the Dept. of Telecomm., Govt. of India.
 {style="text-align: justify;"}
