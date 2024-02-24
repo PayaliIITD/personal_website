@@ -54,7 +54,6 @@ skills:
     items:
       - name: Circuit Design
         description: 'Tools: Cadence, Vituso, LT Spice, Multisim, Logisim'
-        percent: ''
         icon: ''
         icon_pack: ''
       - name: PCB Design
@@ -64,7 +63,6 @@ skills:
         icon_pack: ''
       - name: Embedded Software
         description: 'IDE: STM Cube IDE, Arduino, Raspberry Pi'
-        percent: ''
         icon: ''
         icon_pack: ''
       - name: Digital System Design
@@ -74,17 +72,14 @@ skills:
         icon_pack: ''
       - name: Programming Languages
         description: 'Matlab, Python, C/C++'
-        percent: ''
         icon: ''
         icon_pack: ''
       - name: Other Tools
         description: 'Overleaf, Origin, X-Circuit, DSS-Solidworks, Autodesk Inventor, MS Suite'
-        percent: ''
         icon: ''
         icon_pack: ''
       - name: Operating Systems
         description: 'Windows and Linux'
-        percent: ''
         icon: ''
         icon_pack: ''
   - name: Hobbies
@@ -99,8 +94,8 @@ skills:
       - name: Running
         description: ''
         percent: 100
-        icon: person-simple-walk
-        icon_pack: fas
+        icon: arrow-trending-up
+        icon_pack: hero
       - name: Photography
         description: ''
         percent: 80
@@ -109,8 +104,8 @@ skills:
       - name: Cooking
         description: ''
         percent: 80
-        icon: cauldron
-        icon_pack: fas
+        icon: cake
+        icon_pack: hero
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
