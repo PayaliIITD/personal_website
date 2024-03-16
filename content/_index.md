@@ -75,7 +75,7 @@ sections:
           # company_logo: './../assets/media/IITMandi.png'
           location: Mandi Himachal Pradesh
           date_start: '2018-01-01'
-          date_end: '2019-06-31'
+          date_end: ''
           # description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
